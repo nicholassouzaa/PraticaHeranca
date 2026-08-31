@@ -1,5 +1,5 @@
 
-public abstract class Usuario
+public class Usuario
 {
     // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
     private int matricula;
